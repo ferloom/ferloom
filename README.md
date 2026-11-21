@@ -52,7 +52,7 @@ let me = Ferloom {
 | ⚡ [**Fresh11**](https://github.com/ferloom/Fresh11) | Windows optimizer: cleans, speeds up and strips out bloat so your system runs like a fresh install | 🚧 WIP |
 | 🦀 [**winrust**](https://github.com/ferloom/winrust) | The most important Windows apps recoded from scratch in Rust: lighter, faster, no bloat | 🚧 WIP |
 | 🔋 [**Wireless Device Battery Info**](https://github.com/ferloom/wireless-device-battery-info) | Taskbar (or standalone) app that shows the battery level of your wireless devices: mice, headsets, controllers | 🚧 WIP |
-| 🍏 [**sidekey**](https://github.com/ferloom/sidekey) | Website for managing Apple **.p12** certificates | ✅ Done |
+| 🍏 [**sidekey**](https://sidekey.xyz) | Website for managing Apple **.p12** certificates | ✅ Done |
 
 ---
 
