@@ -42,6 +42,7 @@ let me = Ferloom {
 - 🧰 Every now and then I also reach for **C#**, **TypeScript** and **Python**
 - 🌐 I also build **websites** when a project needs one
 - 🌱 Always learning, always juggling too many unfinished projects
+- 💬 Want to talk? [DM me on Discord](https://discord.com/users/191580322259927041)
 
 ---
 
@@ -52,7 +53,7 @@ let me = Ferloom {
 | ⚡ [**Fresh11**](https://github.com/ferloom/Fresh11) | Windows optimizer: cleans, speeds up and strips out bloat so your system runs like a fresh install | 🚧 WIP |
 | 🦀 [**winrust**](https://github.com/ferloom/winrust) | The most important Windows apps recoded from scratch in Rust: lighter, faster, no bloat | 🚧 WIP |
 | 🔋 [**Wireless Device Battery Info**](https://github.com/ferloom/wireless-device-battery-info) | Taskbar (or standalone) app that shows the battery level of your wireless devices: mice, headsets, controllers | 🚧 WIP |
-| 🍏 [**sidekey**](https://sidekey.xyz) | Website for managing Apple **.p12** certificates | ✅ Done |
+| 🍏 [**sidekey**](https://sidekey.xyz) | Website for managing Apple **.p12** certificates · 🌐 [sidekey.xyz](https://sidekey.xyz) | ✅ Done |
 
 ---
 
@@ -102,7 +103,7 @@ let me = Ferloom {
 <div align="center">
 
 <a href="https://github.com/ferloom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.com/users/191580322259927041"><img src="https://img.shields.io/badge/Discord-DM%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 <br/><br/>
 
