@@ -53,6 +53,7 @@ let me = Ferloom {
 | ⚡ [**Fresh11**](https://github.com/ferloom/Fresh11) | Windows optimizer: cleans, speeds up and strips out bloat so your system runs like a fresh install | 🚧 WIP |
 | 🦀 [**winrust**](https://github.com/ferloom/winrust) | The most important Windows apps recoded from scratch in Rust: lighter, faster, no bloat | 🚧 WIP |
 | 🔋 [**Wireless Device Battery Monitor**](https://github.com/ferloom/wireless-device-battery-monitor) | Taskbar app that shows the battery level of your wireless devices: mice, headsets, controllers. A fork of the original C++ project, rewritten from scratch in 🦀 **Rust** | ✅ Done |
+| 🎵 [**Tray Tunes**](https://github.com/ferloom/tray-tunes) | Tiny media player in your system tray, written in 🦀 **Rust**. Shows what's currently playing in any app and lets you control it right from the taskbar | 🚧 WIP |
 | 🍏 [**sidekey**](https://sidekey.xyz) | Website for managing Apple **.p12** certificates · 🌐 [sidekey.xyz](https://sidekey.xyz) | ✅ Done |
 
 ---
